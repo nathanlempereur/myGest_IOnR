@@ -30,5 +30,3 @@ L'ensemble des outils vous sera expliqué.
 
 ![image](https://github.com/user-attachments/assets/7a045f86-8cb5-4cb3-98ab-76f861422c5d)
 
-
-![image](https://github.com/user-attachments/assets/7a045f86-8cb5-4cb3-98ab-76f861422c5d)

@@ -1,6 +1,6 @@
 Bienvenue sur myGest_IOnR !
 
-Pour commencer, veuillez lire les différentes documentations ;)
+Pour commencer, veuillez lire les différentes documentations ;) Vous pouvez trouver des vidéo tutoriels ici -> https://drive.google.com/drive/folders/1VomdD8oS63ys_6ukk7SRk1kRoKy0nQJQ?usp=drive_link
 myGest_IOnR est un outil de gestion de parc informatique libre, développé entièrement par moi à partir d'une idée de projet de base donnée en cours de BTS SIO SISR, dans le but d'aider des techniciens réseau professionnels ou débutants.
 
 

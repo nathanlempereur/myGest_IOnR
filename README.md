@@ -1,36 +1,67 @@
-Bienvenue et merci d'avoir choisis myGest_IOnR !
+# myGest_IOnR
 
-Pour commencer, veuillez lire les différentes documentations ! Vous pouvez trouver des vidéo tutoriels ici -> https://drive.google.com/drive/folders/1VomdD8oS63ys_6ukk7SRk1kRoKy0nQJQ?usp=drive_link .
-myGest_IOnR est un outil de gestion de parc informatique libre, développé entièrement par moi à partir d'une idée de projet, donnée en cours de BTS SIO SISR, dans le but d'aider des techniciens réseau professionnels ou débutants.
+Bienvenue sur **myGest_IOnR** !
 
+myGest_IOnR est un outil de gestion de parc informatique libre, conçu pour aider aussi bien les techniciens réseau débutants que professionnels. Ce projet a été développé dans le cadre d'un BTS SIO SISR à partir d'une idée de projet en cours.
 
-Cet outil est entièrement libre et est modifiable à votre convenance. Il permet de :
-    1)  Gestion du parc informatique :
-    * Gérer une base de données de notre parc (nom, adresse MAC, IP, CIDR et le type) :
-        - Consultation des machines
-        - Ajout de machines
-        - Suppression de machines
-        - Modification des machines
+Ce logiciel est entièrement libre et modifiable selon vos besoins.
 
-   2) Outils réseau :
-    * Tester les IP de nos machines dans la base de données 
-    * Tester des IP et/ou des ports TCP spécifiques
-    * Exporter la base de données fichier .txt
-    * Faire des backups de la base de données
-    * Avoir une connexion distante en SSH sur la machine voulu
-    * Voir un affichage de couleur adaptatif pour les daltoniens
+---
 
-   --------------------------------------------------------
-   
+## Fonctionnalités
 
-Pour l'installation, consultez le fichier INSTALL.txt qui vous expliquera et vous guidera.
+### 1. Gestion du parc informatique
+- **Base de données du parc informatique** comprenant :
+  - Nom des machines
+  - Adresse MAC
+  - Adresse IP
+  - CIDR
+  - Type d'appareil
+- **Opérations disponibles** :
+  - Consultation des machines
+  - Ajout de nouvelles machines
+  - Suppression de machines
+  - Modification des machines
 
-![image](https://github.com/user-attachments/assets/82e037b2-c42c-49b0-9c8d-bf8296455ceb)
+### 2. Outils réseau
+- **Tests réseau** :
+  - Vérification des adresses IP des machines enregistrées
+  - Test de connectivité d'une IP et/ou de ports TCP spécifiques
+- **Gestion des données** :
+  - Export de la base de données en fichier `.txt`
+  - Sauvegarde et restauration de la base de données
+- **Outils avancés** :
+  - Connexion distante en **SSH** sur une machine spécifique
+  - Affichage avec un mode adaptatif pour les **daltoniens**
 
+---
 
-![image](https://github.com/user-attachments/assets/b95c91ec-f5c3-4358-ae83-93759f670394)
+## Installation
 
-![image](https://github.com/user-attachments/assets/8101daa8-d80d-4e2b-bf02-a4a8411bf246)
+Consultez le fichier **INSTALL.txt** pour une procédure d'installation détaillée.
 
-![image](https://github.com/user-attachments/assets/7a045f86-8cb5-4cb3-98ab-76f861422c5d)
+---
+
+## Tutoriels
+
+Des vidéos tutoriels sont disponibles pour vous aider à utiliser myGest_IOnR :
+[Voir les tutoriels](https://drive.google.com/drive/folders/1VomdD8oS63ys_6ukk7SRk1kRoKy0nQJQ?usp=drive_link)
+
+---
+
+## Contribution
+
+myGest_IOnR est un projet **open-source**. Vous pouvez le modifier, l'améliorer et proposer des mises à jour.
+
+N'hésitez pas à ouvrir une issue ou une pull request pour toute amélioration ou correction.
+
+---
+
+## Licence
+
+Ce projet est sous licence **libre**. Vous êtes libre de l'utiliser, le modifier et le redistribuer selon vos besoins.
+
+---
+
+Merci d'utiliser **myGest_IOnR** ! 🚀
 

@@ -88,9 +88,9 @@ echo "
 apt update > /dev/null 
 
 if [[ $mode -eq 0 ]]; then
-    apt install -y lolcat mariadb-server figlet > /dev/null 2>&1
+    apt install -y lolcat mariadb-server figlet snmp > /dev/null 2>&1
 else
-    apt install -y mariadb-server figlet > /dev/null 2>&1
+    apt install -y mariadb-server figlet snmp > /dev/null 2>&1
 fi
 
 if [[ $? -eq 0 ]]; then

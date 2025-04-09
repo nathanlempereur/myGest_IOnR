@@ -16,6 +16,7 @@ echo "3) Consulter les IP actives"
 echo "4) Générer un .txt depuis la BDD"
 echo "5) Exporter la BDD"
 echo "6) Connexion à distance"
+echo "7) SNMP sur switch"
 echo "0) Retour au menu principal"
 echo -e "Veuillez choisir une option :"
 read choix
@@ -37,6 +38,9 @@ case $choix in
 		;;
 	6 )
 		bash outilsRx/connexionSSH.sh
+		;;
+	7 )
+		bash outilsRx/SNMP/menuSNMP.sh
 		;;
 	0 )
 		quitter=0

@@ -41,8 +41,15 @@ Ce logiciel est entièrement libre et modifiable selon vos besoins.
 - **Outils avancés** :
   - Connexion distante en **SSH** sur une machine spécifique
   - Affichage avec un mode adaptatif pour les **daltoniens**
+  - SNMP sur switch
+      - Table MAC-Port
+      - Activer un Port
+      - Desactiver un Port
+        ![image](https://github.com/user-attachments/assets/f387388d-c2e3-4610-9880-c18cd53eff4b)
 
-   ![image](https://github.com/user-attachments/assets/b37c7cd6-dfc6-4a93-a5f9-3a171dc5b371)
+
+  ![image](https://github.com/user-attachments/assets/83c645c4-b541-4cc0-9b0d-c3dfe12b0ac1)
+
 
 
 ---

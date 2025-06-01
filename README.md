@@ -68,8 +68,8 @@ Consultez le fichier **INSTALL.txt** pour une procédure d'installation détaill
 ## Tutoriels
 
 Des vidéos tutoriels sont disponibles pour vous aider à utiliser myGest_IOnR :
-[Voir les tutoriels](https://drive.google.com/drive/folders/1VomdD8oS63ys_6ukk7SRk1kRoKy0nQJQ?usp=drive_link)
-
+[Voir la première vidéo](https://youtu.be/xqUBUJhXe78)
+[Voir la deuxième vidéo](https://youtu.be/xqUBUJhXe78)
 ---
 
 ## Contribution

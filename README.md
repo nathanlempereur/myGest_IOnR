@@ -89,5 +89,11 @@ Ce projet est sous licence **libre**. Vous êtes libre de l'utiliser, le modifie
 
 ---
 
+### Contact
+- Email : **contact@nlempereur.ovh**
+- Site web : https://nlempereur.ovh/contact.php
+
+---
+
 Merci d'utiliser **myGest_IOnR** ! 🚀
 

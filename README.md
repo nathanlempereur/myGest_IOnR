@@ -1,4 +1,6 @@
 # myGest_IOnR
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-Libre-orange)
 
 Bienvenue sur **myGest_IOnR** !    
 ![image](https://github.com/user-attachments/assets/0118bf39-9c15-43af-8451-c8dc8696cd8b)

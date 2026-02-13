@@ -79,6 +79,13 @@ Des vidéos tutoriels sont disponibles pour vous aider à utiliser myGest_IOnR :
 
 ---
 
+## Compatibilité !!
+
+L'utilisation de cet outil est optimisée pour :
+- **OS** : Linux avec gestionnaire de paquets APT (Debian/Ubuntu/Kali).
+
+---
+
 ## Contribution
 
 myGest_IOnR est un projet **open-source**. Vous pouvez le modifier, l'améliorer et proposer des mises à jour.
